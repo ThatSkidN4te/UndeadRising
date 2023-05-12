@@ -1,0 +1,4 @@
+name: UndeadRising
+version: '1.0-SNAPSHOT'
+main: me.n4te.undeadrising.UndeadRising
+api-version: 1.19
