@@ -1,0 +1,4 @@
+name: UndeadRising
+version: '${project.version}'
+main: me.n4te.undeadrising.UndeadRising
+api-version: 1.19
